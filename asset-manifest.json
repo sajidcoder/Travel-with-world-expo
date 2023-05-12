@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sajidcoder/country-world-travel.git/static/css/main.b9982aa5.css",
+    "main.js": "/sajidcoder/country-world-travel.git/static/js/main.7017c506.js",
+    "static/js/787.a00d7a99.chunk.js": "/sajidcoder/country-world-travel.git/static/js/787.a00d7a99.chunk.js",
+    "index.html": "/sajidcoder/country-world-travel.git/index.html",
+    "main.b9982aa5.css.map": "/sajidcoder/country-world-travel.git/static/css/main.b9982aa5.css.map",
+    "main.7017c506.js.map": "/sajidcoder/country-world-travel.git/static/js/main.7017c506.js.map",
+    "787.a00d7a99.chunk.js.map": "/sajidcoder/country-world-travel.git/static/js/787.a00d7a99.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9982aa5.css",
+    "static/js/main.7017c506.js"
+  ]
+}
