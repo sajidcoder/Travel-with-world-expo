@@ -1,0 +1,78 @@
+.distination{
+ 
+   
+}
+.container{
+  width: 85%;
+  margin: auto;
+}
+.distination h1{
+    font-size: 3rem;
+}
+.firstDes{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top:4.5rem ;
+  
+}
+.reverse{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: space-between;
+    margin-top:4.5rem ;
+  
+}
+
+.desText{
+    width: 45%;
+    text-align: start;
+    font-size: 1.1rem;
+}
+.desText h2{
+    padding-bottom: 1rem;
+}
+.image{
+    position: relative;
+    width: 50%;
+    display: flex;
+    z-index:-99
+}
+.image img{
+    width: 49%;
+    height:400px;
+    object-fit: cover;border-radius: 5px;
+        box-shadow:-1px 1px 73px -12px
+        rgba(0, 0, 0 , 0.9)
+
+}
+.image img:nth-child(2){
+    position: absolute;
+    top: -10%;
+    right: 0;
+} 
+
+/* 
+responsive */
+
+@media (max-width:850px) {
+    .distination{
+       margin: 4rem 6rem
+    }
+    .firstDes{
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+        justify-content: space-between;
+        margin-top:2.5rem ;
+      
+    }
+    .desText{
+        width: 100%;
+        padding: 20px;
+    }
+    .image{
+        width: 100%;
+    }
+}

@@ -1,0 +1,124 @@
+/* ===========================navbar=================== */
+
+.NavbarItems {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.25);
+  padding-inline-start: 10px;
+
+  z-index: 100;
+}
+.navbar-logo {
+  font-size: 30px;
+  font-weight: 700;
+  z-index: 1;
+}
+.nav-menu {
+  display: flex;
+  list-style: none;
+  gap: 30px;
+  font-size: 17px;
+  font-weight: 600;
+  cursor: pointer;
+}
+a {
+  color: #222222;
+  text-decoration: none;
+  align-items: center;
+  padding: 10px;
+}
+.nav-menu a:hover {
+  background-color: rgb(55, 0, 255);
+  color: white;
+  transition: 0.5s;
+  border-radius: 10px;
+}
+.btn {
+  background-color: rgb(71, 28, 224);
+  padding: 10px;
+  color: white;
+  border: none;
+  text-align: center;
+  margin-right: 20px;
+  cursor: pointer;
+}
+.btn:hover {
+  background-color:transparent;
+  padding: 10px;
+  transition: 1;
+  border-radius: 10px;
+}
+.menu-icon {
+  display: none;
+}
+
+/* ============================responsive navbar======================================== */
+@media screen and (max-width: 850px) {
+    .nav-menu.active {
+        left: 0;
+        opacity: 1;
+        z-index: 1;
+      }
+      
+      .NavbarItems {
+        z-index: 999;
+      }
+      
+      .nav-menu {
+        width: 100%;
+        background-color: white;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        list-style: none;
+        align-items: center;
+        height: auto;
+        position: absolute;
+        top:60px;
+        left: -100%;
+        opacity: 1;
+        align-items: center;
+        padding: 80px 0 30px 0;
+        transition: 0.2s;
+        z-index: 1;
+      }
+      
+  .fas {
+    z-index: 111;
+    padding-right: 20px;
+    cursor: pointer;
+  }
+  .nav-link {
+    display: block;
+    width: 100%;
+    font-size: 1.2rem;
+    cursor: pointer;
+    z-index: 1100;
+  }
+  .nav-link:hover {
+    background-color: aqua !important;
+    transition: 0.2s;
+    width: 100%;
+  }
+  .btn {
+    width: 90%;
+    margin-left: 20px;
+    padding: 10px;
+    height: 50px;
+    background-color: rgba(0, 251, 255, 0.738);
+    color: aliceblue;
+    transition: 0.2s;
+  }
+  
+
+
+  .menu-icon {
+    display: block;
+  }
+  .menu-icon i {
+    font-size: 1.5rem;
+    z-index: 100;
+  }
+}
+
