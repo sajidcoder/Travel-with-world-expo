@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/trip-and-travel/static/css/main.b9982aa5.css",
-    "main.js": "/trip-and-travel/static/js/main.19176f25.js",
-    "static/js/787.a00d7a99.chunk.js": "/trip-and-travel/static/js/787.a00d7a99.chunk.js",
-    "index.html": "/trip-and-travel/index.html",
-    "main.b9982aa5.css.map": "/trip-and-travel/static/css/main.b9982aa5.css.map",
-    "main.19176f25.js.map": "/trip-and-travel/static/js/main.19176f25.js.map",
-    "787.a00d7a99.chunk.js.map": "/trip-and-travel/static/js/787.a00d7a99.chunk.js.map"
+    "main.css": "/static/css/main.b9982aa5.css",
+    "main.js": "/static/js/main.1f163232.js",
+    "static/js/787.a00d7a99.chunk.js": "/static/js/787.a00d7a99.chunk.js",
+    "index.html": "/index.html",
+    "main.b9982aa5.css.map": "/static/css/main.b9982aa5.css.map",
+    "main.1f163232.js.map": "/static/js/main.1f163232.js.map",
+    "787.a00d7a99.chunk.js.map": "/static/js/787.a00d7a99.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b9982aa5.css",
-    "static/js/main.19176f25.js"
+    "static/js/main.1f163232.js"
   ]
 }
