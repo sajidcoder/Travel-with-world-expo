@@ -5,13 +5,14 @@ import TravelCom from '../componenets/TravelCom'
 
 
 import Footer from '../componenets/Footer'
+import Trip from '../componenets/Trip'
 
 
 const Travel = () => {
   return (
     <>
-   <TravelCom/>
-
+   <Trip/>
+salkfhkldnasjdl;asjkl;
     
 
     <Footer/>

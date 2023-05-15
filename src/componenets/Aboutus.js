@@ -15,7 +15,7 @@ History is also an academic discipline which uses narrative to describe, examine
 
 Stories common to a particular culture, but not supported by external sources (such as the tales surrounding King Arthur), are usually classified as cultural heritage or legends.[11][12] History differs from myth in that it is supported by verifiable evidence. However, ancient cultural influences hav
         </p>
-        <h1>Our wordk</h1>
+        <h1>Our work</h1>
         <p>
 Model of Herodotus (c. 484 – c. 425 BC), often considered the "father of history" in the Western world
 History (derived from Ancient Greek ἱστορία (historía) 'inquiry; knowledge acquired by investigation')[1] is the systematic study and documentation of human activity.[2][3] The time period of events before the invention of writing systems is considered prehistory.[4] "History" is an umbrella term comprising past events as well as the memory, discovery, collection, organization, presentation, and interpretation of these events. Historians seek knowledge of the past using historical sources such as written documents, oral accounts, art and material artifacts, and ecological markers.[5] History is not complete and still has debatable mysteries.

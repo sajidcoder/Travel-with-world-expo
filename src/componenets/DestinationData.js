@@ -11,7 +11,7 @@ class DestinationData extends Component{
             <div className={`firstDes ${this.props.cName}`}>
                 <div className={`desText`}>
                     <h2>{this.props.heading}</h2>
-                    <p>{this.props.text} </p>
+                    <p>{this.props.text} laksdnfklndklnkl</p>
                 </div>
                 <div className="image">
                 <img src={this.props.img2} alt='p img'/>

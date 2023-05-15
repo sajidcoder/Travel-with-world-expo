@@ -7,7 +7,7 @@ const Service = () => {
   return (
    <>
      <Hero
-    cName='heroMid' hero='https://thumbs.dreamstime.com/b/rear-view-friends-road-trip-driving-convertible-car-67525217.jpg'
+    cName='heroMid' hero='https://img.freepik.com/premium-photo/market-analyze-bar-graphs-diagrams-financial-figures-abstract-glowing-forex-chart-interface-wallpaper-investment-trade-stock-finance_372999-7381.jpg?w=2000'
     title='Service'
     text='We Provide Best Service'
     btnText='Check'

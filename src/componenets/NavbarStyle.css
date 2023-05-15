@@ -6,8 +6,10 @@
   align-items: center;
   box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.25);
   padding-inline-start: 10px;
-
+background-color:white;
+color:cadetblue;
   z-index: 100;
+  position: sticky;
 }
 .navbar-logo {
   font-size: 30px;
@@ -21,23 +23,28 @@
   font-size: 17px;
   font-weight: 600;
   cursor: pointer;
+
+  align-items: center;
+
 }
 a {
-  color: #222222;
+
   text-decoration: none;
   align-items: center;
   padding: 10px;
+color: 	rgb(7, 7, 101);
 }
 .nav-menu a:hover {
-  background-color: rgb(55, 0, 255);
+  background-color: 	rgb(5, 5, 40);
   color: white;
   transition: 0.5s;
-  border-radius: 10px;
+
 }
 .btn {
-  background-color: rgb(71, 28, 224);
-  padding: 10px;
+  background-color: 	rgb(7, 7, 101);
   color: white;
+  padding: 10px;
+
   border: none;
   text-align: center;
   margin-right: 20px;
@@ -47,7 +54,7 @@ a {
   background-color:transparent;
   padding: 10px;
   transition: 1;
-  border-radius: 10px;
+ 
 }
 .menu-icon {
   display: none;

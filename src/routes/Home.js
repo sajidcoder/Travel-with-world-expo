@@ -3,24 +3,26 @@ import Hero from '../componenets/Hero'
 import Destination from '../componenets/destination'
 import Trip from '../componenets/Trip'
 import Footer from '../componenets/Footer'
+import Contactform from '../componenets/Contactform'
 
 
 const Home = () => {
   return (
    <>
   <Hero
-  cName='hero' hero='https://images.pexels.com/photos/1525041/pexels-photo-1525041.jpeg?auto=compress&cs=tinysrgb&'
-  title='Your Jounery Your Story'
-  text='Choose Your destination'
+  cName='hero' hero='https://www.wionews.com/iifl/wp-content/uploads/2022/12/A-Basic-Guide-To-Stock-Trading.jpg'
+  title='There is no single market secret to discover, no single correct way to trade the markets. ...'
+  text='Trust Us to Make You Success'
   btnText='Travel Plan '
   url='/'
   btnClass='show'
-  btnText='Travel Plan'
+  btnText='Choose'
 
 
   />
   <Destination/>
   <Trip/>
+  <Contactform/>
  <Footer/>
    </>
   )

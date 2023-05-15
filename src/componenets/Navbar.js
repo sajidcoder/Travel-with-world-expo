@@ -16,9 +16,11 @@ class Navbar extends React.Component {
     return (
       <>
         <nav className='NavbarItems'>
-          <h1 className='navbar-logo'>
-            World Expo
+        <a href='/'>
+        <h1 className='navbar-logo'>
+            Dream TD
           </h1>
+        </a>
           <div className='menu-icon' onClick={this.handleClick}>
             <i className={this.state.clicked ? 'fas fa-times' : 'fas fa-bars'}></i>
           </div>

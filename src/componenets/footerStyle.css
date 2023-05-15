@@ -1,4 +1,4 @@
-*{overflow: ;}
+
 .footer{
     padding: 4rem 6rem;
     background-color: #000;
@@ -11,6 +11,9 @@
     justify-content: space-between;
     flex-direction: wrap;
 
+}
+.content{
+    width: 500px;
 }
 .top i{
     color: #fff;

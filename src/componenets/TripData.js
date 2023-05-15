@@ -9,7 +9,9 @@ const TripData=(props)=>{
                 <img src={props.image}alt='t-img'/>
             </div>
             <h4>{props.heading}</h4>
+            <h2>{props.price}</h2>
             <p>{props.text}</p>
+            <button>Join Now</button>
         </div>
         </>
     )
